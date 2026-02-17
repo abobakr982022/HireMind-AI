@@ -1,3 +1,6 @@
-streamlit==1.37.1
-requests==2.32.3
+streamlit
+requests
 pandas
+reportlab
+pypdf
+python-docx
